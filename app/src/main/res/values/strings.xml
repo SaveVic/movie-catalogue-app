@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Catalogue App</string>
+    <string name="tabs_movie">Movie</string>
+    <string name="tabs_tv_show">Tv Show</string>
+    <string name="status_empty">Empty</string>
+    <string name="status_error">Error</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="back">Back</string>
+    <string name="released">Released</string>
+    <string name="runtime">Runtime</string>
+    <string name="genre">Genre</string>
+    <string name="director">Director</string>
+    <string name="start_date">Start Date</string>
+    <string name="rating">Rating</string>
+    <string name="rating_count">Rating Count</string>
+    <string name="detail_tv_show">Detail Tv Show</string>
+</resources>
